@@ -28,7 +28,7 @@ A Assistente Virtual Inteligente é um projeto desenvolvido para fornecer intera
 -   [ ] librosa
 -   [ ] numpy
 -   [ ] tensorflow
--   [ ]webbrowser
+-   [ ] webbrowser
 -   [ ] pyttsx3
 -   [ ] speech_recognition
 -   [ ] playsound
