@@ -23,15 +23,15 @@ A Assistente Virtual Inteligente é um projeto desenvolvido para fornecer intera
 -   [ ] Python.
 
 ## Bibliotecas utilizadas:
--[] seaborn
--[] matplotlib.pyplot
--[] librosa
--[] numpy
--[] tensorflow
--[] webbrowser
--[] pyttsx3
--[] speech_recognition
--[] playsound
--[] random
--[] datetime
+-   [ ] seaborn
+-   [ ] matplotlib.pyplot
+-   [ ] librosa
+-   [ ] numpy
+-   [ ] tensorflow
+-   [ ]webbrowser
+-   [ ] pyttsx3
+-   [ ] speech_recognition
+-   [ ] playsound
+-   [ ] random
+-   [ ] datetime
 
