@@ -2,7 +2,7 @@
 # 💻 Projeto: Assistent virtual
 
 
-A Assistente Virtual Inteligente é um projeto desenvolvido para fornecer interações naturais e eficientes entre usuários e sistemas computacionais. Ela é projetada para auxiliar em uma variedade de tarefas, desde consultas de informações até a execução de comandos específicos.
+A Assistente Virtual Inteligente é um projeto desenvolvido para fornecer interações naturais e eficientes entre usuários e sistemas computacionais. Ela é projetada para auxiliar em uma variedade de tarefas, desde consultas de informações até a execução de comandos específicos. 
 
 ## Principais recursos e funcionalidades:
 
@@ -17,6 +17,9 @@ A Assistente Virtual Inteligente é um projeto desenvolvido para fornecer intera
 5- Extensível e Personalizável: O projeto da Assistente Virtual foi desenvolvido com uma arquitetura modular, o que torna possível adicionar novos recursos e personalizá-la de acordo com as necessidades específicas de cada usuário.
 
 6- Interface Amigável: A Assistente Virtual possui uma interface intuitiva e amigável, facilitando a interação e fornecendo feedback visual quando apropriado.
+
+7- Detector de emoções: Utilizando uma rede neural para detectar como está sua emoção pela fala.
+
 
 ## ✨ Linguagens utilizadas:
 
