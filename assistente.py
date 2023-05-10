@@ -63,7 +63,7 @@ def predict_sound(AUDIO, SAMPLE_RATE, plot=True):
     wav_data, sample_rate = librosa.load(AUDIO, sr=SAMPLE_RATE)
     # print(wav_data)
     # print(wav_data.shape)
-    # https: // librosa.org / doc / main / generated / librosa.effects.trim.html
+    
     clip, index = librosa.effects.trim(
         wav_data, top_db=60, frame_length=512, hop_length=64)
     splitted_audio_data = tf.signal.frame(
@@ -72,7 +72,7 @@ def predict_sound(AUDIO, SAMPLE_RATE, plot=True):
         # print('Audio split: ', i)batch
         # print(data)
         # print(data.shape)
-        # http://www.midiacom.uff.br/debora/images/disciplinas/2018-2/smm/trabalhos/Apresentacao-MFCC.pdf
+      
         mfccs_features = librosa.feature.mfcc(
             y=data, sr=sample_rate, n_mfcc=40)
         # print(mfccs_features.shape)
